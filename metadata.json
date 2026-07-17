@@ -1,0 +1,6 @@
+{
+  "name": "MintisLab",
+  "description": "Agência de design de comportamento imersiva combinando ciência e criatividade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
